@@ -10,8 +10,8 @@ I'm a **Full-Stack Web Developer** with experience building efficient, user-frie
 View the repositories.
 
 ### 📚 Currently Learning
-- DevOps technologies 
-- Expanding knowledge in **Blockchain** and **Frontend**
+- ML/AI technologies 
+- Expanding knowledge in **Backend** and **Frontend**
 
 ### 🧠 Problem-Solving Skills
 Check out my solutions to algorithmic problems on:
