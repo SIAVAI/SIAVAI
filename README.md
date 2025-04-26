@@ -45,7 +45,6 @@ Check out my repositories: [GitHub Repos](https://github.com/SIAVAI)
 ---
 
 ### 📊 **LeetCode Progress**
-![LeetCode Badge](https://img.shields.io/badge/LeetCode-Solved%20Problems-brightgreen?style=flat&logo=leetcode)
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Sajidursiam?theme=light)](https://leetcode.com/u/Sajidursiam)
 
 ---
